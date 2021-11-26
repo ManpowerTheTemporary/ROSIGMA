@@ -2215,6 +2215,7 @@ en-US:
   
   #zombies expanded
   #Guard zombies
+  STR_GSC_CULT_TURNED: "Turned"
   STR_GUARD_SQUAT_FLAK_MALE_ZOMBIE: "Traitor Squat"
   STR_GUARD_SQUAT_FLAK_FEMALE_ZOMBIE: "Traitor Squat"
   STR_GUARD_SQUAT_CARA_MALE_ZOMBIE: "Traitor Squat"
