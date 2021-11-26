@@ -1833,7 +1833,7 @@
     livingWEapon: true
 
   - type: STR_GSC_GUARD_FLAK_MALE
-    race: STR_ZOMBIEM
+    race: STR_GSC_CULT_TURNED
     stats:
       tu: 60
       stamina: 80
@@ -1860,7 +1860,7 @@
     value: 10
 
   - type: STR_GSC_GUARD_FLAK_FEMALE
-    race: STR_ZOMBIEF
+    race: STR_GSC_CULT_TURNED
     stats:
       tu: 60
       stamina: 80
@@ -1887,7 +1887,7 @@
     value: 10
 
   - type: STR_GSC_GUARD_MEDIC_MALE
-    race: STR_ZOMBIEM
+    race: STR_GSC_CULT_TURNED
     stats:
       tu: 80 #GSC gene boost, to run up and poke people
       stamina: 80 #GSC stamina
@@ -1915,7 +1915,7 @@
     value: 15
 
   - type: STR_GSC_GUARD_MEDIC_FEMALE
-    race: STR_ZOMBIEF
+    race: STR_GSC_CULT_TURNED
     stats:
       tu: 80 #GSC gene boost, to run up and poke people
       stamina: 80 #GSC stamina
@@ -1943,7 +1943,7 @@
     value: 15
 
   - type: STR_GSC_GUARD_CARAPACE_MALE
-    race: STR_ZOMBIEM
+    race: STR_GSC_CULT_TURNED
     stats:
       tu: 70
       stamina: 90
@@ -1970,7 +1970,7 @@
     value: 15
 
   - type: STR_GSC_GUARD_CARAPACE_FEMALE
-    race: STR_ZOMBIEF
+    race: STR_GSC_CULT_TURNED
     stats:
       tu: 70
       stamina: 90
@@ -1997,7 +1997,7 @@
     value: 15
 
   - type: STR_GSC_GUARD_CARAPACE_MEDIC_MALE
-    race: STR_ZOMBIEM
+    race: STR_GSC_CULT_TURNED
     stats:
       tu: 70
       stamina: 90
@@ -2025,7 +2025,7 @@
     value: 20
 
   - type: STR_GSC_GUARD_CARAPACE_MEDIC_FEMALE
-    race: STR_ZOMBIEF
+    race: STR_GSC_CULT_TURNED
     stats:
       tu: 70
       stamina: 90
@@ -2053,7 +2053,7 @@
     value: 20
 
   - type: STR_GSC_GUARD_SCION_MALE
-    race: STR_ZOMBIEM
+    race: STR_GSC_CULT_TURNED
     stats:
       tu: 80
       stamina: 100
@@ -2080,7 +2080,7 @@
     value: 20
 
   - type: STR_GSC_GUARD_SCION_FEMALE
-    race: STR_ZOMBIEF
+    race: STR_GSC_CULT_TURNED
     stats:
       tu: 80
       stamina: 100
@@ -2107,7 +2107,7 @@
     value: 20
 
   - type: STR_GSC_GUARD_FLAK_OFFICER_MALE #used for zombify
-    race: STR_ZOMBIEM
+    race: STR_GSC_CULT_TURNED
     stats:
       tu: 65
       stamina: 80
@@ -2177,7 +2177,7 @@
         - STR_KRAK_GRENADE 
 
   - type: STR_GSC_GUARD_FLAK_OFFICER_FEMALE
-    race: STR_ZOMBIEM
+    race: STR_GSC_CULT_TURNED
     stats:
       tu: 65
       stamina: 80
@@ -2204,7 +2204,7 @@
     value: 25 
 
   - type: STR_GSC_GUARD_CARAPACE_OFFICER_MALE
-    race: STR_ZOMBIEM
+    race: STR_GSC_CULT_TURNED
     stats:
       tu: 75
       stamina: 85
@@ -2272,7 +2272,7 @@
         - STR_KRAK_GRENADE
 
   - type: STR_GSC_GUARD_CARAPACE_OFFICER_FEMALE
-    race: STR_ZOMBIEM
+    race: STR_GSC_CULT_TURNED
     stats:
       tu: 75
       stamina: 85
@@ -2299,7 +2299,7 @@
     value: 25
 
   - type: STR_GSC_COMMISSAR_MALE
-    race: STR_ZOMBIEM
+    race: STR_GSC_CULT_TURNED
     stats:
       tu: 65
       stamina: 80
@@ -2326,7 +2326,7 @@
     value: 25
 
   - type: STR_GSC_COMMISSAR_FEMALE
-    race: STR_ZOMBIEM
+    race: STR_GSC_CULT_TURNED
     stats:
       tu: 65
       stamina: 80
@@ -2393,7 +2393,7 @@
         - STR_PHOTON_GRENADE
 
   - type: STR_GSC_COMMISSAR_CARAPACE_MALE
-    race: STR_ZOMBIEM
+    race: STR_GSC_CULT_TURNED
     stats:
       tu: 70
       stamina: 80
@@ -2420,7 +2420,7 @@
     value: 35
 
   - type: STR_GSC_COMMISSAR_CARAPACE_FEMALE
-    race: STR_ZOMBIEM
+    race: STR_GSC_CULT_TURNED
     stats:
       tu: 70
       stamina: 80
@@ -2487,7 +2487,7 @@
         - STR_PHOTON_GRENADE
 
   - type: STR_GSC_PSYKER_MALE
-    race: STR_ZOMBIEM
+    race: STR_GSC_CULT_TURNED
     stats:
       tu: 50
       stamina: 80
@@ -2514,7 +2514,7 @@
     value: 50
 
   - type: STR_GSC_PSYKER_FEMALE
-    race: STR_ZOMBIEM
+    race: STR_GSC_CULT_TURNED
     stats:
       tu: 50
       stamina: 80
@@ -2541,7 +2541,7 @@
     value: 50
 
   - type: STR_GSC_TANITH_MALE
-    race: STR_ZOMBIEM
+    race: STR_GSC_CULT_TURNED
     stats:
       tu: 70
       stamina: 90
@@ -2568,7 +2568,7 @@
     value: 20
 
   - type: STR_GSC_TANITH_FEMALE
-    race: STR_ZOMBIEF
+    race: STR_GSC_CULT_TURNED
     stats:
       tu: 70
       stamina: 90
