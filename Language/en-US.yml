@@ -291,7 +291,7 @@ en-US:
   STR_IRON_GUARD_ARMOR_PLAYER: "Iron Guard Armor"
   STR_IRON_GUARD_CORPSE_PLAYER: "Iron Guard Corpse"
   STR_IRON_GUARD_ARMOR_PLAYER_UFOPAEDIA: "{NEWLINE}{NEWLINE} CODEX ARMOR DETAIL"
-  STR_IRON_GUARD_PLAYER_CODEX: "{NEWLINE} The processes to create Iron Guard are a well kept secret of the Warsmiths of the Iron Warriors. A form of Combat Servitor, they are created from living men, and turn anyone who can survive the process into a capable combatant, near fearless and perfectly obedient."
+  STR_IRON_GUARD_PLAYER_CODEX: "{NEWLINE} The processes to create Iron Guard are a well kept secret of the Warsmiths of the Iron Warriors. A form of Combat Servitor, they are created from living men. These dire rites turn anyone who can survive the process into a capable combatant, near fearless and perfectly obedient."
   STR_REPROGRAM_IRON_GUARD: "Reprogram Iron Guard"
   STR_PRODUCE_IRON_GUARD: "Produce Iron Guard Servitor"
   STR_PRODUCE_IRON_GUARD_FROM_DESERTER_GREEN_FLAK: "Produce Iron Guard Servitor"
