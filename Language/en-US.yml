@@ -30,7 +30,7 @@ en-US:
   STR_HEAVYDSCYTHES_UC: "Heavy D-Scythes"
   STR_COBRA_CANNON_UC: "Cobra Cannon"
   STR_ELDAR_SHIELD_UC: "Force Shield"
-  STR_ELDAR_SPEECH_UFOPEDIA: "{NEWLINE} The captured Eldar Seer has agreed to aid us in our cause, since we share common enemies. She suggests bringing Eldar warriors in through the webway, circumventing the warp storms. Pursue this path at your own peril, Commander! If you believe the gain to outweigh the risk to our souls, capture a Guardian and a Howling Banshee."
+  STR_ELDAR_SPEECH_UFOPEDIA: "{NEWLINE} The captured Eldar Seer has agreed to aid us in our cause, as we share common enemies. She suggests bringing Eldar warriors in through the webway, circumventing the warp storms. Pursue this path at your own peril, Commander! If you believe the gain to outweigh the risk to our souls, capture a Guardian and a Howling Banshee."
   STR_JOANMISSION: "Sergeant Joan Juno"
 
   STR_CHIMEDON_SPAWNER: "Chimedon"
@@ -330,7 +330,7 @@ en-US:
   STR_SUMMONING_COMPLETE_REINFORCEMENTS_TITLE: "CHAOS SUMMONING DETECTED"
   STR_SUMMONING_COMPLETE_REINFORCEMENTS_DESCRIPTION: "The vile Chaos ritual is complete! Chaos forces from the Warp are appearing - destroy them with all possible haste Commander!"
 
-  STR_FINALENTRANCE_DESC: "We are approaching the main enemy stronghold. Your transports will traverse this warped hellscape to face the very best of the enemy. Breach the fortifications and storm the compound underneath to deliver our final blow! Though some of our supporting forces are have been lost, we shall continue to strike the traitors down with all your might! Destroy the forces of Chaos in our path. Once the entrance is ours, we shall carve out the Warp's black heart! For the Emperor!"
+  STR_FINALENTRANCE_DESC: "We are approaching the main enemy stronghold. Your transports will traverse this warped hellscape to face the very best of the enemy. Breach the fortifications and storm the compound underneath to deliver our final blow! Though some of our supporting forces are lost, we shall continue to strike the traitors down with all your might! Destroy the forces of Chaos in our path. Once the entrance is ours, we shall carve out the Warp's black heart! For the Emperor!"
 
   STR_DATASLATE_SCAN: "Craft Data Slate"
 
@@ -367,13 +367,13 @@ en-US:
   STR_IMPERIAL_ASSASSINFEM: "Imperial Assassin"
   STR_IMPASSASSIN_CORPSE: "Assassin Corpse"
   STR_IMPERIAL_ASSASSIN_ORIGINSTITLE: "Imperial Assassins Origins"
-  STR_IMPERIAL_ASSASSIN_ORIGINS: "{NEWLINE} The Officio Assassinorum train many types of Assassins at their Temples, to further the goals and protect the security of the Imperium of Man. Orphans are selected from the Schola Progenium based on their physical aptitude and low empathy, and mericlessly conditioned into unquestioning killing machines."
+  STR_IMPERIAL_ASSASSIN_ORIGINS: "{NEWLINE} The Officio Assassinorum train many types of Assassins at their Temples, to further the goals and protect the security of the Imperium of Man. Orphans are selected from the Schola Progenium based on their physical aptitude and low empathy, and mercilessly conditioned into unquestioning killing machines."
   STR_ASSASSINNEUTRAL_FEMSUIT: "Assassin Bodysuit"
   STR_ASSASSINNEUTRAL_FEMSTORE_UFOPEDIA: "{NEWLINE} Imperial Assassins are available by special requisition. Their skill in the arts of silent killing makes them an excellent choice for sensitive infiltration missions."
   STR_ASSASSINNEUTRAL_FEMSTORE: "Imperial Assassin Bodysuit"
 
   STR_INQUISITION_FAVOR_CODEX_TITLE: "Inquisition Favors"
-  STR_INQUISITION_FAVOR_CODEX: "{NEWLINE} Calling in favours, leveraging blackmail, and stragetically bribing officials, you may convince various factions to provide you with reinforcements. Your Adepts will compile your options in that regard for you to choose from. Keep a million or two in reserve for these activities, as the greasing of the creaking cogs of the Adeptus Terra often proves costly. {NEWLINE} Beyond mere funds, the more pressure you exert on any one faction, the greater the toll on your influence [score]."
+  STR_INQUISITION_FAVOR_CODEX: "{NEWLINE} Calling in favours, leveraging blackmail, and strategically bribing officials, you may convince various factions to provide you with reinforcements. Your Adepts will compile your options in that regard for you to choose from. Keep a million or two in reserve for these activities, as the greasing of the creaking cogs of the Adeptus Terra often proves costly. {NEWLINE} Beyond mere funds, the more pressure you exert on any one faction, the greater the toll on your influence [score]."
 
   STR_RADICAL_INQUISITOR_STRATEGY: "The Radical Road"
   STR_RADICAL_INQUISITOR_STRATEGY_DESCRIPTION: "{NEWLINE} A dire situation requires dire solutions. By means of nerve stapling, psionic restructuring, and hypno-indoctrination, captives with potential may be turned to our service. The Inquisition will use any tool available to perform its holy mission. Anything less would be heresy."
